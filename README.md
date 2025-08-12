@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/fertigai">
-    <img src="https://github.com/fertigai/static/blob/main/public/media/logo.png?raw=true" width="200px">
+    <img src="https://github.com/fertigai/.github/blob/main/public/media/logo.png?raw=true" width="200px">
   </a>
 </div>
 <div align="center">
